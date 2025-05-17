@@ -13,5 +13,4 @@ My research explores the impact of external shocks on entrepreneurship and entre
 
 - [LinkedIn](https://www.linkedin.com/in/mathiasawuni)
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=biC2bt0AAAAJ)
-- [Academia.edu](https://uni-mysore.academia.edu/MathiasAwuni)
 
