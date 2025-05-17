@@ -9,7 +9,7 @@
 
 ## **About**
 
-I am a doctoral researcher in entrepreneurial finance. My work centers on how external shocks—such as regulatory shifts, macroeconomic volatility, and technological disruption—affect entrepreneurship, firm dynamics, and early-stage financing.
+I am a doctoral researcher in entrepreneurial finance. My work centers on how external shocks such as regulatory shifts, macroeconomic volatility, and technological disruption affect entrepreneurship, firm dynamics, and early-stage financing.
 
 My research agenda spans:
 
