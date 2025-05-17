@@ -59,5 +59,3 @@ My research agenda spans:
 
 ---
 
-_This GitHub page is a repository of selected research projects, data extraction tools, and empirical code in entrepreneurial finance, labor policy, and venture capital analytics._
-
