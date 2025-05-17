@@ -1,12 +1,6 @@
 ## About
 
-I'm passionate about the intersection of finance, technology, and innovation. My research focuses on:
-
-- **Business Angel Syndicates**: Exploring how syndication among business angels impacts investment strategies and startup growth :contentReference[oaicite:7]{index=7}.
-- **Robo-Advisory Services**: Investigating the rise of algorithm-driven asset management and its implications for the financial industry :contentReference[oaicite:8]{index=8}.
-- **FinTech Innovations**: Analyzing emerging financial technologies and their role in shaping the future of finance.
-
----
+My research explores the impact of external shocks on entrepreneurship and entrepreneurial finance. I am particularly interested in how these shocks influence the formation and growth of new ventures, their access to financing, and the outcomes of investor exits.
 
 ##  Projects
 
