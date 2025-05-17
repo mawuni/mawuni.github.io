@@ -7,11 +7,11 @@
 
 ---
 
-## **About**
+## **Major Projects**
 
-I am a doctoral researcher in entrepreneurial finance. My work centers on how external shocks such as regulatory shifts, macroeconomic volatility, and technological disruption affect entrepreneurship, firm dynamics, and early-stage financing.
+I am a doctoral researcher in entrepreneurial finance. My research explores the impact of external shocks on entrepreneurship and entrepreneurial finance. I am particularly interested in how these shocks influence the formation and growth of new ventures, their access to financing, and the outcomes of investor exits.
 
-My ongoing projects include:
+ Ongoing projects:
 
 - **Economic Policy Uncertainty and Investor Behavior**  
   Understanding how venture capital (VC) and angel investors respond to uncertainty, new legal regimes, and digital platforms. I examine exit strategies such as secondary sales and continuation vehicles, and explore how digital media (e.g., micro-influencers) can affect startup fundraising.
@@ -21,7 +21,7 @@ My ongoing projects include:
 
 ---
 
-## **Projects**
+## **Minor Projects**
 
 - **Business Angel Syndicates**  
   Co-authored an entry in the *Encyclopedia of Private Equity*, examining how angel syndication shapes information asymmetries, portfolio diversification, and investment dynamics in early-stage finance.
