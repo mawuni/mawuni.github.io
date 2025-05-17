@@ -4,8 +4,8 @@ My research explores the impact of external shocks on entrepreneurship and entre
 
 ##  Projects
 
-Business Angel Syndicates**: Co-authored an entry in the *Encyclopedia of Private Equity*, examining the dynamics of angel investor syndication 
-Robo-Advisory**: The New Paradigm in Asset Management or a Millennial Fad?**: A study on the evolution and impact of robo-advisory services in asset management
+**Business Angel Syndicates**: Co-authored an entry in the *Encyclopedia of Private Equity*, examining the dynamics of angel investor syndication 
+**Robo-Advisory**: The New Paradigm in Asset Management or a Millennial Fad?**: A study on the evolution and impact of robo-advisory services in asset management
 ---
 
 ## 🌐 Connect with Me
