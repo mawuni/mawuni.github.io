@@ -1,4 +1,4 @@
-# **Mathias Nso Awuni**
+# **Mathias Awuni**
 
 🎓 PhD Student in Entrepreneurial Finance  
 📍 Stevens Institute of Technology, Hoboken, NJ  
@@ -39,7 +39,7 @@ My ongoing projects include:
   Exploring the rise of secondary sales as a dominant VC exit mechanism, and their implications for firm maturity, ownership dispersion, and valuation signaling.
 
 ---
-## 🌐 **Connect with Me**
+## 🌐 **Let's Connect**
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mathiasawuni)  
 - 📚 [Google Scholar](https://scholar.google.com/citations?hl=en&user=biC2bt0AAAAJ)  
