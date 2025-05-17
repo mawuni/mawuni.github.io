@@ -1,6 +1,6 @@
 # 👋 Welcome to Mathias Awuni’s GitHub Pages
 
-Hello! I'm **Mathias Nso Awuni**, a PhD student specializing in **Entrepreneurial Finance** and **FinTech**. My academic journey has taken me from earning an MSc in Finance (FinTech and Financial Analytics) at the Hong Kong Baptist University School of Business :contentReference[oaicite:5]{index=5} to pursuing doctoral studies at Stevens Institute of Technology in Hoboken, NJ :contentReference[oaicite:6]{index=6}.
+Hello! I'm **Mathias Awuni**, a PhD student specializing in **Entrepreneurial Finance** and **FinTech**. My academic journey has taken me from earning an MSc in Finance (FinTech and Financial Analytics) at the Hong Kong Baptist University School of Business :contentReference[oaicite:5]{index=5} to pursuing doctoral studies at Stevens Institute of Technology in Hoboken, NJ :contentReference[oaicite:6]{index=6}.
 
 ---
 
