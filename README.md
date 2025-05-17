@@ -11,15 +11,12 @@
 
 I am a doctoral researcher in entrepreneurial finance. My work centers on how external shocks such as regulatory shifts, macroeconomic volatility, and technological disruption affect entrepreneurship, firm dynamics, and early-stage financing.
 
-My research agenda spans:
+My ongoing projects include:
 
-- **Startup Formation and Exit Dynamics**  
-  Investigating how shocks like California’s AB5 law and the COVID-19 pandemic influence firm entry and exit patterns, especially among nonemployer firms and young businesses.
-
-- **Entrepreneurial Finance and Investor Behavior**  
+- **Economic Policy Uncertainty and Investor Behavior**  
   Understanding how venture capital (VC) and angel investors respond to uncertainty, new legal regimes, and digital platforms. I examine exit strategies such as secondary sales and continuation vehicles, and explore how digital media (e.g., micro-influencers) can affect startup fundraising.
 
-- **Regulatory Frictions and Labor Reclassification**  
+- **Regulatory Frictions and Entreprenurship**  
   Studying the economic consequences of worker classification laws on business closures, startup scaling, and employment reallocation. This includes causal identification using difference-in-differences (DiD) and Bartik shift-share IV methods.
 
 ---
@@ -42,15 +39,6 @@ My research agenda spans:
   Exploring the rise of secondary sales as a dominant VC exit mechanism, and their implications for firm maturity, ownership dispersion, and valuation signaling.
 
 ---
-
-## **Empirical Methods and Tools**
-
-- **Econometrics**: Difference-in-Differences (DiD), Bartik IV, event studies, fixed effects panel regression, hazard models  
-- **Software**: Stata, Python (pandas, statsmodels), LaTeX (Beamer & BibTeX), Excel VBA  
-- **Data Sources**: BDS, NES, ACS, SUSB, BLS BED, BEA GDP, Crunchbase, PitchBook
-
----
-
 ## 🌐 **Connect with Me**
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mathiasawuni)  
