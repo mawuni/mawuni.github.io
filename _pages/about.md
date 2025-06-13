@@ -7,12 +7,33 @@ redirect_from:
   - /about.html
 ---
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Welcome! I am a Ph.D. student in **Entrepreneurial Finance** at Stevens Institute of Technology, Hoboken, NJ.  
+My research explores how external shocks—such as policy changes, platform dynamics, and legal reclassifications—affect entrepreneurship, venture finance, and investor behavior.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+---
 
+My current work investigates how **economic policy uncertainty** and legal frictions shape investor decisions, startup formation, and entrepreneurial resilience. I focus on innovative financing channels (like micro-influencers), emerging exit mechanisms (such as secondary sales), and empirical identification using panel regressions, event studies, and Bartik IVs.
+
+Before joining the Ph.D. program, I worked on FinTech ventures and corporate finance projects in Ghana and Hong Kong. I co-founded *Coucou Connect*, an alternative credit scoring company, where we use novel data for credit access decisions.
+
+---
+
+_Outside research_, I enjoy mentoring startup founders, experimenting with macroeconomic forecasting models, and curating African entrepreneurial data.
+
+---
+
+### 🔗 Links
+
+- [Job Market Paper (Coming Soon)](#)
+- [Curriculum Vitae (PDF)](/cv.pdf)
+
+---
+
+### 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathiasawuni)  
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=biC2bt0AAAAJ)  
+📬 mathias.awuni@stevens.edu
 Quick Links:
 ------
 [CV](https://academicpages.github.io/markdown/)
