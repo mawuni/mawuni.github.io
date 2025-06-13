@@ -17,3 +17,26 @@ a {
   max-width: 700px;
   margin: auto;
 }
+
+.masthead__inner-wrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+}
+
+.site-title {
+  font-weight: bold;
+  font-size: 1.25rem;
+}
+
+.site-nav {
+  display: flex;
+  gap: 20px;
+}
+
+.site-nav a {
+  text-decoration: none;
+  font-weight: 500;
+  color: #111;
+}
