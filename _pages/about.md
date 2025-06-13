@@ -1,6 +1,6 @@
 ---
 permalink: /
-layout: home
+layout: default
 title: "Mathias Awuni"
 author_profile: true
 redirect_from: 
