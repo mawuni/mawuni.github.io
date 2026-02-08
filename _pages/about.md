@@ -1,25 +1,35 @@
 ---
 layout: about
-title: about
+title: ""  # Leave blank to hide the big default title at the top
 permalink: /
-subtitle: <a href="https://www.stevens.edu/school-of-business">Stevens Institute of Technology</a>.
+subtitle: "" # We will add the subtitle manually in the sidebar
 
 profile:
-  align: right
+  align: right # Keeps image on the right (or change to 'left' if you prefer)
   image: prof_pic.jpg
-  image_circular: false # set to true if you want a circle crop
+  image_circular: false 
+  
+  # WE ARE HACKING THIS FIELD TO MOVE YOUR NAME BELOW THE IMAGE
   address: >
+    <div style="text-align: center; margin-top: 20px;">
+      <h3 style="font-weight: bold; margin-bottom: 5px;">Mathias Awuni</h3>
+      <p style="font-size: 1.1em; color: #666;">PhD Candidate in Finance</p>
+    </div>
+    <hr>
     <p>School of Business</p>
     <p>Stevens Institute of Technology</p>
     <p>Hoboken, NJ 07030</p>
 
-news: true  # includes a list of news items
-news_limit: 5 # shows the last 5 news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: true  
+selected_papers: true 
+social: true 
 ---
 
-Welcome!
+<div style="width: 100%; margin-bottom: 30px;">
+  <img src="/assets/img/stevens_logo.png" alt="Stevens Institute of Technology" style="width: 100%; max-width: 600px; height: auto;">
+</div>
+
+# Welcome!
 
 I am a PhD Candidate in Finance at Stevens Institute of Technology. My research studies how **financing, regulation, and market structure shape entrepreneurial outcomes**, with a particular focus on **venture capital, firm dynamics, and the distribution of startup growth and failure**.
 
