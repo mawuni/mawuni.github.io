@@ -30,13 +30,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-
-# Welcome!
-
-I am a PhD Candidate in Finance at Stevens Institute of Technology. My research studies how **financing, regulation, and market structure shape entrepreneurial outcomes**, with a particular focus on **venture capital, firm dynamics, and the distribution of startup growth and failure**.
-
-I am especially interested in settings where policy or institutional changes alter incentives for founders, investors, and workers, and in understanding how these changes affect **entry, exit, growth trajectories, and risk-taking** among young firms. Much of my work uses large-scale U.S. administrative data combined with quasi-experimental and structural methods.
-
-Prior to my doctoral studies, I obtained an MSc in Finance (FinTech and Financial Analytics) from Hong Kong Baptist University and an MBA in Finance from the University of Mysore. I also have industry experience as a Co-Founder of **Coucou Connect** and as a Business Analyst at **Crypto.com** in Hong Kong.
-
-I am currently working on my dissertation under the advisement of **Prof. Stefano Bonini**.
+Welcome!
+I am a PhD Candidate in Finance at Stevens Institute of Technology.
+My research examines how financing, regulation, and market structure shape entrepreneurial outcomes. I focus on three broad areas:
+Venture Capital and Startup Dynamics. I study how venture capital financing affects the distribution of startup outcomes, including growth trajectories, exit paths, and failure rates.
+Regulation and Entrepreneurship. I investigate how policy and institutional changes—such as worker classification laws and regulatory complexity—alter incentives for founders, investors, and workers, with consequences for firm entry, exit, and risk-taking.
+Private Markets and Investor Behavior. I explore how information frictions and valuation opacity in private markets influence investor decisions and capital flows.
