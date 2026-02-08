@@ -224,7 +224,6 @@ plugins:
   - jekyll-regex-replace
   - jekyll/scholar
   - jekyll-sitemap
-  - jekyll-s
   - jekyll-tabs
   - jekyll-terser
   - jekyll-toc
