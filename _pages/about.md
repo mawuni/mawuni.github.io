@@ -14,6 +14,7 @@ profile:
     <p>Hoboken, NJ 07030</p>
 
 news: true  # includes a list of news items
+news_limit: 5 # shows the last 5 news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
