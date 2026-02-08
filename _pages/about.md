@@ -29,9 +29,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<div style="width: 100%; margin-bottom: 20px; text-align: left;">
-  <img src="/assets/img/stevens_logo.png" alt="Stevens Institute of Technology" style="max-width: 250px; width: 100%; height: auto;">
-</div>
+#<div style="width: 100%; margin-bottom: 20px; text-align: left;">
+#  <img src="/assets/img/stevens_logo.png" alt="Stevens Institute of Technology" style="max-width: 250px; width: 100%; height: auto;">
+#</div>
 
 # Welcome!
 
