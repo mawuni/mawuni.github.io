@@ -30,7 +30,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-# Welcome!
+## Welcome!
 
 I am a PhD Candidate in Finance at Stevens Institute of Technology.
 
