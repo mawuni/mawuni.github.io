@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mawuni.github.io/sitemap.xml
+Sitemap: /sitemap.xml
