@@ -26,8 +26,8 @@ selected_papers: true
 social: true 
 ---
 
-<div style="width: 100%; margin-bottom: 30px;">
-  <img src="/assets/img/stevens_logo.png" alt="Stevens Institute of Technology" style="width: 100%; max-width: 600px; height: auto;">
+<div style="width: 100%; margin-bottom: 20px; text-align: left;">
+  <img src="/assets/img/stevens_logo.png" alt="Stevens Institute of Technology" style="width: 250px; height: auto;">
 </div>
 
 # Welcome!
