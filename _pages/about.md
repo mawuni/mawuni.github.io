@@ -21,6 +21,7 @@ profile:
     <p>Hoboken, NJ 07030</p>
 
 news: true  
+news_limit: 5
 selected_papers: true 
 social: true 
 ---
