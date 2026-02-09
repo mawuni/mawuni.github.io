@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 # This was causing the duplicate blue name. I changed it back to your title.
-subtitle: PhD Candidate in Finance 
+subtitle: <a href='https://www.stevens.edu/school-business'>School of Business, Stevens Institute of Technology </a>
 
 # -----------------------------------------------------------------------------
 # 1. FIX DUPLICATE MENU
@@ -27,14 +27,13 @@ profile:
       <p style="font-size: 1.0em; color: #555;">PhD Candidate in Finance</p>
     </div>
 
+    
+
     <div style="text-align: center;">
       <p style="font-weight: bold; color: #d4af37;">
         Corporate Finance | Entrepreneurial Finance | Alternative Investments
       </p>
       
-      <p>School of Business</p>
-      <p>Stevens Institute of Technology</p>
-      <p>Hoboken, NJ 07030</p>
       
       <div class="social-icons" style="margin-top: 20px; font-size: 1.5rem;">
         <a href="mailto:mawuni@stevens.edu" style="margin: 0 5px; color: inherit;" title="Email"><i class="fas fa-envelope"></i></a>
