@@ -1,8 +1,8 @@
 ---
 layout: about
-title: About
+title: 
 permalink: /
-subtitle: <a href='#'>Corporate Finance | Entrepreneurial Finance | Alternative Investments</a>
+subtitle: <a href='#'>School of Business, Stevens Institute of Technology</a>
 
 # -----------------------------------------------------------------------------
 # MENU SETTINGS (These were missing)
@@ -24,7 +24,7 @@ profile:
   more_info: >
     <div style="text-align: center; margin-bottom: 15px;">
       <h3 style="font-weight: 700; margin: 10px 0 5px 0;">Mathias Awuni</h3>
-      <p style="font-size: 1.0em; color: #555;">PhD Candidate in Finance</p>
+      <p style="font-size: 1.0em; color: #555;">Corporate Finance | Entrepreneurial Finance | Alternative Investments</p>
     </div>
 
   address: >
