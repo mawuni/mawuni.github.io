@@ -65,7 +65,7 @@ social: false
 
 <br>
 
-**## Welcome!**
+**Welcome!**
 
 I am a PhD Candidate in Finance at Stevens Institute of Technology.
 
