@@ -21,7 +21,7 @@ profile:
   # MERGE EVERYTHING HERE (The theme only reads this section)
   more_info: >
     <div style="text-align: center; margin-bottom: 15px;">
-      <p style="font-size: 1.0em; margin: 10px 0 5px 0;">Corporate Finance | Entrepreneurial Finance | Alternative Investments</p>
+      <p style="font-weight: 500;">Corporate Finance | Entrepreneurial Finance | Alternative Investments</p>
      
     </div>
 
