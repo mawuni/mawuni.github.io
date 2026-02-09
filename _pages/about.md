@@ -62,7 +62,7 @@ social: false
   }
 </style>
 
-<br>
+
 <br>
 
 ## Welcome!
