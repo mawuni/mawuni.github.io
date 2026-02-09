@@ -391,7 +391,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-project-1",
+            },},{id: "news-i-had-the-honor-of-serving-as-a-session-chair-for-the-equity-crowdfunding-session-and-as-a-discussant-at-the-6th-annual-rcf-ecgi-conference-i-discussed-the-paper-breaking-network-barriers-in-the-era-of-data-driven-venture-capitalists-by-melissa-crumling-drexel-university",
+          title: 'I had the honor of serving as a Session Chair for the Equity...',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
