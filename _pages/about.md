@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>PhD Candidate in Finance</a>
+subtitle: <a href='#'>Corporate Finance | Entrepreneurial Finance | Alternative Investments</a>
 
 # -----------------------------------------------------------------------------
 # MENU SETTINGS (These were missing)
