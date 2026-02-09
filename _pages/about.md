@@ -1,11 +1,11 @@
 ---
 layout: about
-title: 
+title: About
 permalink: /
-subtitle: <a href='#'>School of Business, Stevens Institute of Technology</a>
+subtitle: <a href='#'>PhD Candidate in Finance</a>
 
 # -----------------------------------------------------------------------------
-# MENU SETTINGS (These were missing)
+# MENU SETTINGS
 # -----------------------------------------------------------------------------
 nav: true
 nav_order: 1
@@ -18,25 +18,42 @@ profile:
   image: prof_pic.jpg
   image_circular: false 
 
-  # I kept your HTML content exactly as requested.
-  # Note: Standard al-folio puts the name automatically from _config.yml.
-  # If you see your name twice, remove the <h3> line below.
+  # 1. NAME & BIO
   more_info: >
     <div style="text-align: center; margin-bottom: 15px;">
       <h3 style="font-weight: 700; margin: 10px 0 5px 0;">Mathias Awuni</h3>
-      <p style="font-size: 1.0em; color: #555;">Corporate Finance | Entrepreneurial Finance | Alternative Investments</p>
+      <p style="font-size: 1.0em; color: #555;">PhD Candidate in Finance</p>
     </div>
 
+  # 2. ADDRESS + SOCIAL ICONS (Added icons here manually)
   address: >
     <div style="text-align: center;">
       <p>School of Business</p>
       <p>Stevens Institute of Technology</p>
       <p>Hoboken, NJ 07030</p>
-    </div>
+      
+      <div class="social-icons" style="margin-top: 20px; font-size: 1.5rem;">
+        <a href="mailto:mawuni@stevens.edu" style="margin: 0 5px; color: inherit;" title="Email">
+          <i class="fas fa-envelope"></i>
+        </a>
+        <a href="https://scholar.google.com/citations?user=biC2bt0AAAAJ" style="margin: 0 5px; color: inherit;" target="_blank" title="Google Scholar">
+          <i class="ai ai-google-scholar"></i>
+        </a>
+        <a href="https://linkedin.com/in/mathias-awuni" style="margin: 0 5px; color: inherit;" target="_blank" title="LinkedIn">
+          <i class="fab fa-linkedin"></i>
+        </a>
+        <a href="https://github.com/mawuni" style="margin: 0 5px; color: inherit;" target="_blank" title="GitHub">
+          <i class="fab fa-github"></i>
+        </a>
+        <a href="/assets/pdf/Mawuni_CV_2026.pdf" style="margin: 0 5px; color: inherit;" target="_blank" title="CV">
+          <i class="ai ai-cv"></i>
+        </a>
+      </div>
+      </div>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: true  # Keeps the news section active
+selected_papers: false # HIDDEN: Removes the publications list from the bottom
+social: false  # HIDDEN: Removes the giant icons from the footer
 ---
 
 ## Welcome!
