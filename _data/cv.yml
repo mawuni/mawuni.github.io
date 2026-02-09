@@ -1,189 +1,185 @@
-cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+name: Mathias Awuni
+  label: PhD Candidate in Finance
+  email: mawuni@stevens.edu
+  location: Hoboken, NJ
+  image: "assets/img/prof_pic.jpg" # Make sure this matches your file name
+  summary: PhD Candidate in Finance at Stevens Institute of Technology specializing in Entrepreneurial Finance, FinTech, Behavioural Finance, and Labour and Finance.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
     - network: LinkedIn
-      username: example
+      username: mathiasawuni
+    - network: Email
+      username: mawuni@stevens.edu
+    - network: GitHub
+      username: mawuni 
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
+    street: School of Business, Stevens Institute of Technology
+    city: Hoboken
+    region: New Jersey
+    postalCode: 07030
     countryCode: US
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: Stevens Institute of Technology
+        location: Hoboken, NJ, USA
+        area: Business Administration (Finance)
+        studyType: Ph.D.
+        start_date: 
+        end_date: 2027 (Anticipated)
+        summary: Provost Doctoral Fellowship recipient.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: Hong Kong Baptist University
+        location: Hong Kong
+        area: Finance (FinTech and Financial Analytics)
+        studyType: MSc.
+        end_date: 2021
+        summary: International Postgraduate Scholarship recipient.
+
+      - institution: University of Mysore
+        location: Karnataka, India
+        area: Finance
+        studyType: MBA
+        end_date: 2018
+
+      - institution: Kwame Nkrumah University of Science and Technology
+        location: Ghana
+        area: Business Administration
+        studyType: BSc.
+        end_date: 2015
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Coucou Connect
+        position: Co-Founder
+        location: Hong Kong
+        start_date: 2022
+        end_date: 2023
+        summary: Built an alternative credit scoring platform leveraging non-traditional datasets.
         highlights:
-          - Relativity
-          - Description 2.
+          - Developed data models to assess creditworthiness without standard credit bureau data.
+          - Spearheaded business development and partnerships to expand user base in underbanked communities.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Crypto.com
+        position: Business Analyst
+        location: Hong Kong
+        start_date: 2021
+        end_date: 2022
+        summary: Conducted competitor and product research within FinTech and DeFi domains.
         highlights:
-          - Description 1.
-          - Description 2.
+          - Analyzed decentralized finance applications with a focus on security and utility.
+          - Contributed to project management and product architecture design.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Africa Centre for Entrepreneurship and Youth Empowerment
+        position: Research Fellow
+        location: Ghana
+        start_date: 2019
+        end_date: 2021
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Provided advisory and methodological support for research teams.
+          - Designed data collection instruments and performed data analysis.
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - company: DataMine Research Consult
+        position: Director of Research
+        location: Ghana
+        start_date: 2016
+        end_date: 2020
+        summary: Led all phases of client-funded research projects.
+        highlights:
+          - Designed baseline and end-line studies and coordinated fieldwork.
+          - Analyzed data using SPSS, STATA, and Excel for insight and reporting.
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - company: KNUST
+        position: Teaching and Research Assistant
+        location: Ghana
+        start_date: 2015
+        end_date: 2016
+        highlights:
+          - "Courses Taught: Introduction to Entrepreneurship, Introduction to Management"
+
+    Research Interests:
+      - name: Finance
+        icon: fa-solid fa-chart-line
+        keywords: "Entrepreneurial Finance, FinTech, Behavioural Finance, Labour and Finance"
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: Business angel syndicates
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Bonini, S.
+          - Awuni, M.
+        publisher: The Palgrave Encyclopedia of Private Equity
+        releaseDate: 2023
+        url: https://doi.org/10.1007/978-3-031-13443-7_6-1
+        summary: Published in The Palgrave Encyclopedia of Private Equity (pp. 1--7). Cham: Springer International Publishing.
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: Workforce diversity and team effectiveness
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Ellis, F.
+          - Kwofie, T. E.
+          - Awuni, M.
+          - Coffie, R. B.
+          - Duffour, M.
+        publisher: Journal of Business Diversity
+        releaseDate: 2019
+        url: https://doi.org/10.33423/jbd.v19i5.2643
+        summary: Insights from the construction sector in Ghana. Journal of Business Diversity, 19(5), 55–65.
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+    Working Papers:
+      - title: "The Cost of Cohesion: Syndicate Networks, Structural Holes, and Evaluation Bias in Venture Capital (Job Market Paper)"
+        releaseDate: 2026
+        
+      - title: "Worker (Mis)Classification Laws and Entrepreneurship"
+        releaseDate: 2026
+        summary: Accepted for presentation at BCERC 2026.
+
+      - title: "When Investors Don’t Trust the NAV"
+        releaseDate: 2026
+        summary: Valuation Opacity, Runs, and 'Retailization' of Private Equity. Scheduled for UNC AIC 2026.
+
+      - title: "Economic Policy Uncertainty and VC Exits"
+      - title: "Venture Capital and the Dispersion of Startup Outcomes"
+      - title: "What Happens When Startups Grow Too Fast?"
+      - title: "Mass Shootings and Angel Investments"
+      - title: "Regulatory Complexity and Corporate Venture Capital"
+
+    Conferences:
+      - title: Babson College Entrepreneurship Research Conference (BCERC)
+        date: 2026
+        summary: Presenting 'Should Founders Raise Funds from VCs?' and 'Worker (Mis)classification Laws and Entrepreneurship'.
+      
+      - title: UNC Alternative Investments Conference (UNC AIC)
+        date: 2026
+        summary: Presenting 'When Investors Don’t Trust the NAV'.
+
+      - title: 6th RCF-ECGI Corporate Finance and Governance Conference
+        date: 2025-12
+        summary: Discussant for 'Breaking Network Barriers' and Session Chair for Equity Crowdfunding.
+
+    Awards:
+      - title: Provost Doctoral Fellowship
+        awarder: Stevens Institute of Technology
+      - title: $100,000 (HKD) Startup Seed Funding Grant
+        awarder: Cyberport Hong Kong
+      - title: Outstanding Financial Technologist of the Year
+        awarder: Institute of Financial Technologists Asia
+      - title: Fintech Star in the Making
+        awarder: IFTA
+      - title: International Postgraduate Scholarship
+        awarder: Hong Kong Baptist University
+      - title: Bronze and Silver Awards
+        awarder: Hong Kong Blockchain Olympiad
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Technical Skills
+        level: Expert
+        icon: fa-solid fa-code
+        keywords: "Stata, R, Python, LaTeX, SPSS, AMOS"
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+    Service:
+      - company: Academic Journals
+        position: Referee
+        summary: Referee service for Journal of Economics and Finance (2025) and Finance Research Letters (2024).
 
     References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Available on Request
+        reference: References are available upon request.
