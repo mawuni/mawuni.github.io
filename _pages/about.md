@@ -2,10 +2,12 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Mathias Awuni</a>
+# This was causing the duplicate blue name. I changed it back to your title.
+subtitle: PhD Candidate in Finance 
 
 # -----------------------------------------------------------------------------
-# MENU SETTINGS
+# 1. FIX DUPLICATE MENU
+# Set nav to false because the homepage doesn't need a dedicated menu item.
 # -----------------------------------------------------------------------------
 nav: false
 nav_order: 1
@@ -18,41 +20,43 @@ profile:
   image: prof_pic.jpg
   image_circular: false 
 
-  # MERGE EVERYTHING HERE (The theme only reads this section)
+  # We combine all sidebar info here to ensure it appears under the photo.
   more_info: >
     <div style="text-align: center; margin-bottom: 15px;">
-      <p style="font-weight: 500;">Corporate Finance | Entrepreneurial Finance | Alternative Investments</p>
-     
+      <h3 style="font-weight: 700; margin: 10px 0 5px 0;">Mathias Awuni</h3>
+      <p style="font-size: 1.0em; color: #555;">PhD Candidate in Finance</p>
     </div>
 
     <div style="text-align: center;">
+      <p style="font-weight: bold; color: #d4af37;">
+        Corporate Finance | Entrepreneurial Finance | Alternative Investments
+      </p>
+      
       <p>School of Business</p>
       <p>Stevens Institute of Technology</p>
       <p>Hoboken, NJ 07030</p>
       
       <div class="social-icons" style="margin-top: 20px; font-size: 1.5rem;">
-        <a href="mailto:mawuni@stevens.edu" style="margin: 0 5px; color: inherit;" title="Email">
-          <i class="fas fa-envelope"></i>
-        </a>
-        <a href="https://scholar.google.com/citations?user=biC2bt0AAAAJ&hl=en&oi=ao" style="margin: 0 5px; color: inherit;" target="_blank" title="Google Scholar">
-          <i class="ai ai-google-scholar"></i>
-        </a>
-        <a href="https://linkedin.com/in/mathias-awuni" style="margin: 0 5px; color: inherit;" target="_blank" title="LinkedIn">
-          <i class="fab fa-linkedin"></i>
-        </a>
-        <a href="https://github.com/mawuni" style="margin: 0 5px; color: inherit;" target="_blank" title="GitHub">
-          <i class="fab fa-github"></i>
-        </a>
-        <a href="/assets/pdf/Mawuni_CV_2026.pdf" style="margin: 0 5px; color: inherit;" target="_blank" title="CV">
-          <i class="ai ai-cv"></i>
-        </a>
+        <a href="mailto:mawuni@stevens.edu" style="margin: 0 5px; color: inherit;" title="Email"><i class="fas fa-envelope"></i></a>
+        <a href="https://scholar.google.com/citations?user=biC2bt0AAAAJ" style="margin: 0 5px; color: inherit;" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+        <a href="https://linkedin.com/in/mathias-awuni" style="margin: 0 5px; color: inherit;" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+        <a href="https://github.com/mawuni" style="margin: 0 5px; color: inherit;" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
+        <a href="/assets/pdf/Mawuni_CV_2026.pdf" style="margin: 0 5px; color: inherit;" target="_blank" title="CV"><i class="ai ai-cv"></i></a>
       </div>
-      </div>
+    </div>
 
 news: true  
-selected_papers: false 
+selected_papers: true # Set to false if you want to hide the publications list seen in Image 1
 social: false 
 ---
+
+<style>
+  .navbar-brand {
+      /* LOOK HERE: Change 'cyan' to the hex color you want (e.g., #0056b3) */
+      color: cyan !important; 
+  }
+</style>
+
 
 ## Welcome!
 
