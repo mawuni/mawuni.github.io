@@ -21,8 +21,8 @@ profile:
   # MERGE EVERYTHING HERE (The theme only reads this section)
   more_info: >
     <div style="text-align: center; margin-bottom: 15px;">
-      <h3 style="font-weight: 700; margin: 10px 0 5px 0;">Mathias Awuni</h3>
-      <p style="font-size: 1.0em; color: #555;">Corporate Finance | Entrepreneurial Finance | Alternative Investments</p>
+      <p style="font-size: 1.0em; margin: 10px 0 5px 0;">Corporate Finance | Entrepreneurial Finance | Alternative Investments</p>
+     
     </div>
 
     <div style="text-align: center;">
@@ -34,7 +34,7 @@ profile:
         <a href="mailto:mawuni@stevens.edu" style="margin: 0 5px; color: inherit;" title="Email">
           <i class="fas fa-envelope"></i>
         </a>
-        <a href="https://scholar.google.com/citations?user=biC2bt0AAAAJ" style="margin: 0 5px; color: inherit;" target="_blank" title="Google Scholar">
+        <a href="https://scholar.google.com/citations?user=biC2bt0AAAAJ&hl=en&oi=ao" style="margin: 0 5px; color: inherit;" target="_blank" title="Google Scholar">
           <i class="ai ai-google-scholar"></i>
         </a>
         <a href="https://linkedin.com/in/mathias-awuni" style="margin: 0 5px; color: inherit;" target="_blank" title="LinkedIn">
