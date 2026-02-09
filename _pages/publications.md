@@ -5,6 +5,8 @@ title: Research
 nav: true
 nav_order: 2
 description: "Working Papers, Conference Presentations, and Research Projects"
----
 
 Below is a list of my some of my research projects, working papers, and conference presentations.
+
+---
+
