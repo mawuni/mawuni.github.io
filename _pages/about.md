@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>**Mathias Awuni**</a>
+subtitle: <a href='#'>Mathias Awuni</a>
 
 # -----------------------------------------------------------------------------
 # MENU SETTINGS
@@ -22,7 +22,7 @@ profile:
   more_info: >
     <div style="text-align: center; margin-bottom: 15px;">
       <h3 style="font-weight: 700; margin: 10px 0 5px 0;">Mathias Awuni</h3>
-      <p style="font-size: 1.0em; color: #555;">PhD Candidate in Finance</p>
+      <p style="font-size: 1.0em; color: #555;">Corporate Finance | Entrepreneurial Finance | Alternative Investments</p>
     </div>
 
     <div style="text-align: center;">
