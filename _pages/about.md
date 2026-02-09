@@ -62,8 +62,7 @@ social: false
   }
 </style>
 
- <div 
-</div>
+ <p </p>
 
 ## Welcome!
 
