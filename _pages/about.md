@@ -18,15 +18,13 @@ profile:
   image: prof_pic.jpg
   image_circular: false 
 
-  # 1. NAME & BIO
+  # MERGE EVERYTHING HERE (The theme only reads this section)
   more_info: >
     <div style="text-align: center; margin-bottom: 15px;">
       <h3 style="font-weight: 700; margin: 10px 0 5px 0;">Mathias Awuni</h3>
       <p style="font-size: 1.0em; color: #555;">PhD Candidate in Finance</p>
     </div>
 
-  # 2. ADDRESS + SOCIAL ICONS (Added icons here manually)
-  address: >
     <div style="text-align: center;">
       <p>School of Business</p>
       <p>Stevens Institute of Technology</p>
@@ -51,9 +49,9 @@ profile:
       </div>
       </div>
 
-news: true  # Keeps the news section active
-selected_papers: false # HIDDEN: Removes the publications list from the bottom
-social: false  # HIDDEN: Removes the giant icons from the footer
+news: true  
+selected_papers: false 
+social: false 
 ---
 
 ## Welcome!
