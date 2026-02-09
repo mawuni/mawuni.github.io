@@ -3,7 +3,7 @@ label: "PhD Candidate in Finance"
 email: "mawuni@stevens.edu"
 location: "Hoboken, NJ"
 image: "assets/img/prof_pic.jpg"
-summary: "PhD Candidate in Finance at Stevens Institute of Technology specializing in Entrepreneurial Finance, FinTech, Behavioural Finance, and Labor and Finance."
+summary: "PhD Candidate in Finance at Stevens Institute of Technology. Research interests include Entrepreneurial Finance, FinTech, Behavioural Finance, and Labour and Finance."
 
 social_networks:
   - network: "LinkedIn"
@@ -26,30 +26,29 @@ sections:
       location: "Hoboken, NJ, USA"
       area: "Business Administration (Finance)"
       studyType: "Ph.D."
-      start_date: "2022"
-      end_date: "2027"
-      summary: "Anticipated Graduation: 2027. Provost Doctoral Fellowship recipient."
+      end_date: "2027 (Anticipated)"
+      summary: "Dissertation Advisor: Prof. Bonini Stefano. Title: Ongoing."
+      highlights:
+        - "Provost Doctoral Fellowship recipient"
 
     - institution: "Hong Kong Baptist University"
       location: "Hong Kong"
       area: "Finance (FinTech and Financial Analytics)"
       studyType: "MSc."
-      start_date: "2020"
       end_date: "2021"
-      summary: "International Postgraduate Scholarship recipient."
+      highlights:
+        - "International Postgraduate Scholarship recipient"
 
     - institution: "University of Mysore"
       location: "Karnataka, India"
       area: "Finance"
       studyType: "MBA"
-      start_date: "2016"
       end_date: "2018"
 
     - institution: "Kwame Nkrumah University of Science and Technology"
       location: "Ghana"
       area: "Business Administration"
       studyType: "BSc."
-      start_date: "2011"
       end_date: "2015"
 
   Experience:
@@ -79,8 +78,8 @@ sections:
       start_date: "2019"
       end_date: "2021"
       highlights:
-        - "Provided advisory and methodological support for research teams."
-        - "Designed data collection instruments and performed data analysis."
+        - "Provide advisory and methodological support for research teams."
+        - "Design data collection instruments and perform data analysis."
 
     - company: "DataMine Research Consult"
       position: "Director of Research"
@@ -100,11 +99,6 @@ sections:
       highlights:
         - "Courses Taught: Introduction to Entrepreneurship, Introduction to Management"
 
-  Research_Interests:
-    - name: "Finance"
-      icon: "fa-solid fa-chart-line"
-      keywords: "Entrepreneurial Finance, FinTech, Behavioural Finance, Labour and Finance"
-
   Publications:
     - title: "Business angel syndicates"
       authors:
@@ -113,7 +107,7 @@ sections:
       publisher: "The Palgrave Encyclopedia of Private Equity"
       releaseDate: "2023"
       url: "https://doi.org/10.1007/978-3-031-13443-7_6-1"
-      summary: "Published in The Palgrave Encyclopedia of Private Equity (pp. 1--7). Cham: Springer International Publishing."
+      summary: "In The Palgrave Encyclopedia of Private Equity (pp. 1--7). Cham: Springer International Publishing."
 
     - title: "Workforce diversity and team effectiveness"
       authors:
@@ -128,29 +122,37 @@ sections:
       summary: "Insights from the construction sector in Ghana. Journal of Business Diversity, 19(5), 55–65."
 
   Working_Papers:
-    - title: "The Cost of Cohesion: Syndicate Networks, Structural Holes, and Evaluation Bias in Venture Capital (Job Market Paper)"
+    - title: "When Investors Don’t Trust the NAV: Valuation Opacity, Runs, and 'Retailization' of Private Equity"
       releaseDate: "2026"
-      
     - title: "Worker (Mis)Classification Laws and Entrepreneurship"
       releaseDate: "2026"
-      summary: "Accepted for presentation at BCERC 2026."
-
-    - title: "When Investors Don’t Trust the NAV"
+    - title: "Economic Policy Uncertainty and VC Exits"
       releaseDate: "2026"
-      summary: "Valuation Opacity, Runs, and 'Retailization' of Private Equity. Scheduled for UNC AIC 2026."
+    - title: "Venture Capital and the Dispersion of Startup Outcomes"
+      releaseDate: "2026"
+    - title: "What Happens When Startups Grow Too Fast?"
+      releaseDate: "2026"
+    - title: "Mass Shootings and Angel Investments"
+      releaseDate: "2026"
+    - title: "Regulatory Complexity and Corporate Venture Capital"
+      releaseDate: "2026"
 
   Conferences:
     - title: "Babson College Entrepreneurship Research Conference (BCERC)"
-      date: "2026"
-      summary: "Presenting 'Should Founders Raise Funds from VCs?' and 'Worker (Mis)classification Laws and Entrepreneurship'."
+      date: "2026 (Scheduled)"
+      summary: "Presentations: 'Should Founders Raise Funds from VCs?' and 'Worker (Mis)classification Laws and Entrepreneurship'"
     
     - title: "UNC Alternative Investments Conference (UNC AIC)"
-      date: "2026"
-      summary: "Presenting 'When Investors Don’t Trust the NAV'."
+      date: "2026 (Scheduled)"
+      summary: "Presentation: 'When Investors Don’t Trust the NAV'"
 
     - title: "6th RCF-ECGI Corporate Finance and Governance Conference"
-      date: "2025"
-      summary: "Discussant for 'Breaking Network Barriers' and Session Chair for Equity Crowdfunding."
+      date: "Dec 2025"
+      summary: "Discussant: 'Breaking Network Barriers'. Session Chair: Equity Crowdfunding."
+
+    - title: "Academy of International Business (AIB) Annual Meeting"
+      date: "2019"
+      summary: "Presentation: 'Workforce Diversity and Team Effectiveness...'"
 
   Awards:
     - title: "Provost Doctoral Fellowship"
@@ -165,17 +167,16 @@ sections:
       awarder: "Hong Kong Baptist University"
     - title: "Bronze and Silver Awards"
       awarder: "Hong Kong Blockchain Olympiad"
+    - title: "Indian Technical and Economic Cooperation (ITEC & ICCR) Scholarship"
+    - title: "Member"
+      awarder: "Financial Management Association (FMA)"
+    - title: "Member"
+      awarder: "American Finance Association (AFA)"
 
   Skills:
-    - name: "Technical Skills"
-      level: "Expert"
+    - name: "Technical Proficiency"
       icon: "fa-solid fa-code"
       keywords: "Stata, R, Python, LaTeX, SPSS, AMOS"
-
-  Service:
-    - company: "Academic Journals"
-      position: "Referee"
-      summary: "Referee service for Journal of Economics and Finance (2025) and Finance Research Letters (2024)."
 
   References:
     - name: "Available on Request"
