@@ -50,9 +50,15 @@ social: false
 ---
 
 <style>
+  /* 1. Makes the Top Left Navigation Name BOLD */
   .navbar-brand {
-      /* LOOK HERE: Change 'cyan' to the hex color you want (e.g., #0056b3) */
-      color: cyan !important; 
+      color: cyan !important;  /* Keep your color choice */
+      font-weight: 800 !important; /* 800 is Extra Bold */
+  }
+
+  /* 2. Makes the Big Page Header BOLD */
+  .post-title, h1 {
+      font-weight: 700 !important; /* Standard Bold */
   }
 </style>
 
