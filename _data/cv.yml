@@ -3,7 +3,7 @@ label: PhD Candidate in Finance
 email: mawuni@stevens.edu
 location: Hoboken, NJ
 image: "assets/img/prof_pic.jpg"
-summary: PhD Candidate in Finance at Stevens Institute of Technology specializing in Entrepreneurial Finance, FinTech, Behavioural Finance, and Labor and Finance.
+summary: "PhD Candidate in Finance at Stevens Institute of Technology specializing in Entrepreneurial Finance, FinTech, Behavioural Finance, and Labour and Finance."
 
 social_networks:
   - network: LinkedIn
@@ -28,14 +28,14 @@ sections:
       studyType: Ph.D.
       start_date: 
       end_date: 2027 (Anticipated)
-      summary: Provost Doctoral Fellowship recipient.
+      summary: "Provost Doctoral Fellowship recipient."
 
     - institution: Hong Kong Baptist University
       location: Hong Kong
       area: Finance (FinTech and Financial Analytics)
       studyType: MSc.
       end_date: 2021
-      summary: International Postgraduate Scholarship recipient.
+      summary: "International Postgraduate Scholarship recipient."
 
     - institution: University of Mysore
       location: Karnataka, India
@@ -55,20 +55,20 @@ sections:
       location: Hong Kong
       start_date: 2022
       end_date: 2023
-      summary: Built an alternative credit scoring platform leveraging non-traditional datasets.
+      summary: "Built an alternative credit scoring platform leveraging non-traditional datasets."
       highlights:
-        - Developed data models to assess creditworthiness without standard credit bureau data.
-        - Spearheaded business development and partnerships to expand user base in underbanked communities.
+        - "Developed data models to assess creditworthiness without standard credit bureau data."
+        - "Spearheaded business development and partnerships to expand user base in underbanked communities."
 
     - company: Crypto.com
       position: Business Analyst
       location: Hong Kong
       start_date: 2021
       end_date: 2022
-      summary: Conducted competitor and product research within FinTech and DeFi domains.
+      summary: "Conducted competitor and product research within FinTech and DeFi domains."
       highlights:
-        - Analyzed decentralized finance applications with a focus on security and utility.
-        - Contributed to project management and product architecture design.
+        - "Analyzed decentralized finance applications with a focus on security and utility."
+        - "Contributed to project management and product architecture design."
 
     - company: Africa Centre for Entrepreneurship and Youth Empowerment
       position: Research Fellow
@@ -76,18 +76,18 @@ sections:
       start_date: 2019
       end_date: 2021
       highlights:
-        - Provided advisory and methodological support for research teams.
-        - Designed data collection instruments and performed data analysis.
+        - "Provided advisory and methodological support for research teams."
+        - "Designed data collection instruments and performed data analysis."
 
     - company: DataMine Research Consult
       position: Director of Research
       location: Ghana
       start_date: 2016
       end_date: 2020
-      summary: Led all phases of client-funded research projects.
+      summary: "Led all phases of client-funded research projects."
       highlights:
-        - Designed baseline and end-line studies and coordinated fieldwork.
-        - Analyzed data using SPSS, STATA, and Excel for insight and reporting.
+        - "Designed baseline and end-line studies and coordinated fieldwork."
+        - "Analyzed data using SPSS, STATA, and Excel for insight and reporting."
 
     - company: KNUST
       position: Teaching and Research Assistant
@@ -110,7 +110,7 @@ sections:
       publisher: The Palgrave Encyclopedia of Private Equity
       releaseDate: 2023
       url: https://doi.org/10.1007/978-3-031-13443-7_6-1
-      summary: Published in The Palgrave Encyclopedia of Private Equity (pp. 1--7). Cham: Springer International Publishing.
+      summary: "Published in The Palgrave Encyclopedia of Private Equity (pp. 1--7). Cham: Springer International Publishing."
 
     - title: Workforce diversity and team effectiveness
       authors:
@@ -122,7 +122,7 @@ sections:
       publisher: Journal of Business Diversity
       releaseDate: 2019
       url: https://doi.org/10.33423/jbd.v19i5.2643
-      summary: Insights from the construction sector in Ghana. Journal of Business Diversity, 19(5), 55–65.
+      summary: "Insights from the construction sector in Ghana. Journal of Business Diversity, 19(5), 55–65."
 
   Working Papers:
     - title: "The Cost of Cohesion: Syndicate Networks, Structural Holes, and Evaluation Bias in Venture Capital (Job Market Paper)"
@@ -130,11 +130,11 @@ sections:
       
     - title: "Worker (Mis)Classification Laws and Entrepreneurship"
       releaseDate: 2026
-      summary: Accepted for presentation at BCERC 2026.
+      summary: "Accepted for presentation at BCERC 2026."
 
     - title: "When Investors Don’t Trust the NAV"
       releaseDate: 2026
-      summary: Valuation Opacity, Runs, and 'Retailization' of Private Equity. Scheduled for UNC AIC 2026.
+      summary: "Valuation Opacity, Runs, and 'Retailization' of Private Equity. Scheduled for UNC AIC 2026."
 
     - title: "Economic Policy Uncertainty and VC Exits"
     - title: "Venture Capital and the Dispersion of Startup Outcomes"
@@ -145,20 +145,20 @@ sections:
   Conferences:
     - title: Babson College Entrepreneurship Research Conference (BCERC)
       date: 2026
-      summary: Presenting 'Should Founders Raise Funds from VCs?' and 'Worker (Mis)classification Laws and Entrepreneurship'.
+      summary: "Presenting 'Should Founders Raise Funds from VCs?' and 'Worker (Mis)classification Laws and Entrepreneurship'."
     
     - title: UNC Alternative Investments Conference (UNC AIC)
       date: 2026
-      summary: Presenting 'When Investors Don’t Trust the NAV'.
+      summary: "Presenting 'When Investors Don’t Trust the NAV'."
 
     - title: 6th RCF-ECGI Corporate Finance and Governance Conference
       date: 2025-12
-      summary: Discussant for 'Breaking Network Barriers' and Session Chair for Equity Crowdfunding.
+      summary: "Discussant for 'Breaking Network Barriers' and Session Chair for Equity Crowdfunding."
 
   Awards:
     - title: Provost Doctoral Fellowship
       awarder: Stevens Institute of Technology
-    - title: $100,000 (HKD) Startup Seed Funding Grant
+    - title: "$100,000 (HKD) Startup Seed Funding Grant"
       awarder: Cyberport Hong Kong
     - title: Outstanding Financial Technologist of the Year
       awarder: Institute of Financial Technologists Asia
@@ -178,8 +178,8 @@ sections:
   Service:
     - company: Academic Journals
       position: Referee
-      summary: Referee service for Journal of Economics and Finance (2025) and Finance Research Letters (2024).
+      summary: "Referee service for Journal of Economics and Finance (2025) and Finance Research Letters (2024)."
 
   References:
     - name: Available on Request
-      reference: References are available upon request.
+      reference: "References are available upon request."
