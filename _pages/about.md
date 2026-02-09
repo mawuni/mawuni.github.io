@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>PhD Candidate in Finance</a>
+subtitle: <a href='#'>**Mathias Awuni**</a>
 
 # -----------------------------------------------------------------------------
 # MENU SETTINGS
