@@ -82,6 +82,7 @@ My research examines how financing, regulation, and market structure shape entre
 
 **Private Markets and Investor Behavior.** I explore how information frictions and valuation opacity in private markets influence investor decisions and capital flows.
 
+<br>
 **Education**
 * **Ph.D. in Business Administration (Finance)**, Stevens Institute of Technology *(Expected 2027)*
 * **MSc. in Finance (FinTech and Financial Analytics)**, Hong Kong Baptist University 
