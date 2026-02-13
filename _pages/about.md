@@ -91,4 +91,4 @@ My research examines how financing, regulation, and market structure shape entre
   
 * **MBA in Finance**, University of Mysore
   
-* **BSc. in Business Administration**, Kwame Nkrumah University of Science and Technology (KNUST) 
+* **BSc. in Business Administration**, Kwame Nkrumah University of Science and Technology
