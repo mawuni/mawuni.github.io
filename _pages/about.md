@@ -84,7 +84,11 @@ My research examines how financing, regulation, and market structure shape entre
 
 <br>
 **Education**
+
 * **Ph.D. in Business Administration (Finance)**, Stevens Institute of Technology *(Expected 2027)*
-* **MSc. in Finance (FinTech and Financial Analytics)**, Hong Kong Baptist University 
-* **MBA in Finance**, University of Mysore 
+  
+* **MSc. in Finance (FinTech and Financial Analytics)**, Hong Kong Baptist University
+  
+* **MBA in Finance**, University of Mysore
+  
 * **BSc. in Business Administration**, Kwame Nkrumah University of Science and Technology (KNUST) 
