@@ -60,8 +60,13 @@ social: false
   .post-title, h1 {
       font-weight: 700 !important; /* Standard Bold */
   }
-</style>
 
+  /* 3. Fixes the Giant Profile Picture */
+  .profile {
+      max-width: 320px !important; /* Stops the image from getting too wide */
+      margin-left: auto; /* Ensures it stays aligned to the right */
+  }
+</style>
 
 <br>
 
