@@ -40,6 +40,40 @@ body.sticky-bottom-footer {
   }
 }
 
+/* ==========================================================================
+   CUSTOM BIBLIOGRAPHY BUTTONS (Adapts to Light/Dark Mode)
+   ========================================================================== */
+
+.publications .bibliography .links a.btn {
+  /* 1. Outline & Color Strategy */
+  color: var(--global-theme-color) !important;
+  border: 1px solid var(--global-theme-color) !important;
+  background-color: transparent !important;
+  
+  /* 2. Shape & Typography */
+  border-radius: 20px !important; /* Creates a modern, rounded 'pill' shape */
+  padding: 3px 12px !important;
+  font-size: 0.8rem !important;
+  font-weight: 600 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.5px;
+  
+  /* 3. Smooth Transitions */
+  transition: all 0.2s ease-in-out !important;
+  box-shadow: none !important;
+  margin-right: 6px;
+  margin-bottom: 6px;
+}
+
+/* Hover Effect: Fills with color and lifts up */
+.publications .bibliography .links a.btn:hover {
+  background-color: var(--global-theme-color) !important;
+  color: var(--global-bg-color) !important; /* Matches the background color of the page */
+  transform: translateY(-2px) !important; /* Slight "lift" effect */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15) !important;
+  text-decoration: none !important;
+}
+
 // Content layout uses Bootstrap's grid system with responsive columns
 // Main content flows naturally through container-mt-5 and Bootstrap grid classes
 // See _layouts/default.liquid and _includes/projects.liquid for examples
