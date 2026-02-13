@@ -81,3 +81,9 @@ My research examines how financing, regulation, and market structure shape entre
 **Regulation and Entrepreneurship.** I study how policy and institutional changes, such as worker classification laws and regulatory complexity, alter incentives for founders, investors, and workers, with consequences for firm entry, exit, and risk-taking.
 
 **Private Markets and Investor Behavior.** I explore how information frictions and valuation opacity in private markets influence investor decisions and capital flows.
+
+**Education**
+* **Ph.D. in Business Administration (Finance)**, Stevens Institute of Technology *(Expected 2027)*
+* **MSc. in Finance (FinTech and Financial Analytics)**, Hong Kong Baptist University 
+* **MBA in Finance**, University of Mysore 
+* **BSc. in Business Administration**, Kwame Nkrumah University of Science and Technology (KNUST) 
