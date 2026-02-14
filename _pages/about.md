@@ -74,11 +74,11 @@ social: false
 
 I am a PhD Candidate in Finance at Stevens Institute of Technology.
 
-My research examines how financing, regulation, and market structure shape entrepreneurial outcomes. I focus on three broad areas:
+I study how financing, regulatory, and information frictions shape entrepreneurial outcomes. I focus on three broad areas:
 
 **Venture Capital and Startup Dynamics.** I study how venture capital financing affects startup outcomes, including growth trajectories, failure, and investor exit paths.
 
-**Regulation and Entrepreneurship.** I study how policy and institutional changes, such as worker classification laws and regulatory complexity, alter incentives for founders, investors, and workers, with consequences for firm entry, exit, and risk-taking.
+**Regulation and Entrepreneurship.** I study how policy and institutional changes alter incentives for founders, investors, and workers, with consequences for firm entry, exit, and risk-taking.
 
 **Private Markets and Investor Behavior.** I explore how information frictions and valuation opacity in private markets influence investor decisions and capital flows.
 
