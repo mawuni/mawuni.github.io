@@ -38,7 +38,7 @@ profile:
       <div class="social-icons" style="margin-top: 20px; font-size: 1.5rem;">
         <a href="mailto:mawuni@stevens.edu" style="margin: 0 5px; color: inherit;" title="Email"><i class="fas fa-envelope"></i></a>
         <a href="https://scholar.google.com/citations?user=biC2bt0AAAAJ" style="margin: 0 5px; color: inherit;" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-        <a href="https://linkedin.com/in/mathias-awuni" style="margin: 0 5px; color: inherit;" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+        <a href="https://www.linkedin.com/in/mathiasawuni/" style="margin: 0 5px; color: inherit;" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
         <a href="https://github.com/mawuni" style="margin: 0 5px; color: inherit;" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
         <a href="/assets/pdf/Mawuni_CV_2026.pdf" style="margin: 0 5px; color: inherit;" target="_blank" title="CV"><i class="ai ai-cv"></i></a>
       </div>
