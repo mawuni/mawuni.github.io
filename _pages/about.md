@@ -18,7 +18,7 @@ nav_order: 1
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false 
+  image_circular: true 
 
   # We combine all sidebar info here to ensure it appears under the photo.
   more_info: >
