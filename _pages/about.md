@@ -80,7 +80,7 @@ I study how financing, regulatory, and information frictions shape entrepreneuri
 
 **Regulation and Entrepreneurship.** I study how policy and institutional changes alter incentives for founders, investors, and workers, with consequences for firm entry, exit, and risk-taking.
 
-**Private Markets and Investor Behavior.** I explore how information frictions and valuation opacity in private markets influence investor decisions and capital flows.
+**Private Markets and Investor Behavior.** I explore how information frictions and fund management practices in private markets influence investor decisions and capital flows.
 
 <br>
 **Education**
